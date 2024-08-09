@@ -12,7 +12,7 @@ x-axis, y-axis
 4,8
 5,3
 
-author: Luke Billard
+author: Sahil Shaikh
 
 Graph generator window which contains a button for selecting a .csv file, a drop down menu for selecting a type of graph, and a button for generating graph. 
 
