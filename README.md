@@ -16,6 +16,19 @@ author: Luke Billard
 
 Graph generator window which contains a button for selecting a .csv file, a drop down menu for selecting a type of graph, and a button for generating graph. 
 
-<img width="629" alt="Screenshot 2024-03-27 at 7 28 55 PM" src="https://github.com/Luke-Billard/GraphGenerator/assets/101523051/ca64b826-016c-4efc-8427-1347eb146fcc">
+LINE GRAPH
 
+<img width="650" alt="line" src="https://github.com/sahil-5117/Graph_Generator/asset/line.png">
+
+BAR GRAPH
+
+<img width="650" alt="bar" src="https://github.com/sahil-5117/Graph_Generator/asset/bar.png">
+
+HISTOGRAM GRAPH
+
+<img width="650" alt="histogram" src="https://github.com/sahil-5117/Graph_Generator/asset/histogram.png">
+
+SCATTER GRAPH
+
+<img width="650" alt="Scatter" src="https://github.com/sahil-5117/Graph_Generator/asset/Scatter.png">
 
